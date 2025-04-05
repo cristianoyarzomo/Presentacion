@@ -15,11 +15,10 @@
 
 
 
-- Estudiante de quinto año de ingeniería civil industrial de la Universidad de Chile.
-- Interés en ingresar al Magíster en Ciencia de Datos de la Universidad de Chile.
-- Me gusta el fútbol, el anime y los videojuegos, también juego tenis de mesa en mis tiempos libres.
+- Estudiante de sexto año de ingeniería civil industrial de la Universidad de Chile.
+- Estudiante del Magíster en Ciencia de Datos de la Universidad de Chile.
+- Me gusta el fútbol, el anime y los videojuegos.
 - Soy oriundo de la Región de los Lagos, Puerto Montt.
-- Soy sagitario.
 
 <br><br>
 
@@ -33,6 +32,9 @@
 - **Languajes**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <br>   
 
