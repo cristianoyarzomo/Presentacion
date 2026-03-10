@@ -15,10 +15,10 @@
 
 
 
-- Estudiante de sexto año de ingeniería civil industrial de la Universidad de Chile.
-- Estudiante del Magíster en Ciencia de Datos de la Universidad de Chile.
+- Ingeniero civil industrial y Magíster en Ciencia de Datos de la Universidad de Chile.
 - Me gusta el fútbol, el anime y los videojuegos.
 - Soy oriundo de la Región de los Lagos, Puerto Montt.
+- Trabajo en consultoría tecnológica, con foco en ciencia de datos.
 
 <br><br>
 
